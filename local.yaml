@@ -1,0 +1,12 @@
+db-config:
+  db.postgres.host: postgres2
+  db:
+    postgres:
+      host: postgres2
+      port: 1234
+      debug: false
+commodity-srv:
+  app:
+    grpc:
+      port: :1111
+      name: commodity-srv1

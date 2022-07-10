@@ -1,0 +1,1 @@
+{"appId":"db-config","cluster":"","namespaceName":"application","releaseKey":"","configurations":{"db.postgres.debug":"true","db.postgres.host":"postgres","db.postgres.maxIdleConn":"100","db.postgres.maxOpenConn":"10","db.postgres.password":"ZI9NhYcqloytCp\u0026","db.postgres.port":"5432","db.postgres.timeZone":"Asia/Shanghai","db.postgres.user":"thingbobo"}}
